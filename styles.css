@@ -233,7 +233,7 @@ footer{
 		width: 45px;
 	}
 	#navList li{
-		float: none;
+		float: left;
 	}
 	#navList li a {
 		padding: 6px 16px;
