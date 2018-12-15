@@ -110,11 +110,11 @@ section{
 }
 .banner{
 	width: 100%;
-	height: 500px;
+	height: 450px;
 }
 article{
-	margin: 1.5% 0;
-	width: 100%;
+	margin: 1.5% 2%;
+	color: #041452;
 }
 .subHeader{
 	margin: 0%;
@@ -126,12 +126,10 @@ article{
 }
 .text{
 	margin: 0%;
-	padding: 0 2%;
-	color: #013e60;
-	font-style: italic;
 }
 .appLink{
 	text-decoration: none;
+	color: #041452;
 }
 .gridSystem{
 	padding: 0 0.7%;
@@ -142,6 +140,9 @@ article{
 	width: 100%;
 	text-align: center;
 }
+.gridText{
+	margin-top: 1.5%;
+}
 .appText{
 	display: none;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -149,10 +150,8 @@ article{
 	font-size: 150%;
 	text-align: center; 
 	padding: 1.5% 0;
-	box-shadow: 5px 5px 5px black;
-}
-.gridText{
-	margin-top: 1.5%;
+	box-shadow: 5px 5px 5px #7d7474;
+	border-radius: 5px;
 }
 .appTest1{
 	color: #f0514b;
@@ -171,11 +170,10 @@ footer{
 }
 #footer{
 	text-align: center;
-	color: red;
-	/* background-color: #f3cdc1; */
+	color: #ab0505;
 	border-radius: 3px;
 	border: 1px solid #ffffff;
-	box-shadow: 5px 5px 5px black;
+	box-shadow: 5px 5px 5px #7d7474;
 }
 
 
