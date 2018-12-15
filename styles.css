@@ -151,6 +151,9 @@ article{
 	padding: 1.5% 0;
 	box-shadow: 5px 5px 5px black;
 }
+.gridText{
+	margin-top: 1.5%;
+}
 .appTest1{
 	color: #f0514b;
 	background-color: #00ffff;
