@@ -69,7 +69,7 @@ nav{
 	padding: 0;
 }
 #navList li{
-	float: none;
+	float: left;
 }
 #navList li a {
 	display: block;
@@ -371,7 +371,7 @@ footer{
 		width: 60px;
 	}
 	#navList li{
-		float: none;
+		float: right;
 	}
 	#navList li a {
 		padding: 11px 16px;
