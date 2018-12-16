@@ -203,7 +203,7 @@ footer{
 		width: 40px;
 	}
 	#navList li{
-		float: none;
+		float: left;
 	}
 	#navList li a {
 		padding: 3px 16px;
@@ -236,7 +236,7 @@ footer{
 		width: 45px;
 	}
 	#navList li{
-		float: none;
+		float: left;
 	}
 	#navList li a {
 		padding: 6px 16px;
@@ -371,7 +371,7 @@ footer{
 		width: 60px;
 	}
 	#navList li{
-		float: right;
+		float: left;
 	}
 	#navList li a {
 		padding: 11px 16px;
